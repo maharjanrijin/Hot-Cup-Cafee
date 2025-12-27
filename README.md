@@ -211,7 +211,7 @@ footer {
     <h2>About Hot Cup Cafe</h2>
     <p>Affordable tea, coffee and snacks in the near heart of Swoyambhu.
         <br> We focus on giving you a tasteful and enjoyable meals/foods that can be enjoyed by you, your friends and your family as well!
-        <br> But sadly, due to Hot Cup Cafe being a small family buisness, we do not support onlmine deliveries and orders. Sorry and Thank you!
+        <br> But sadly, due to Hot Cup Cafe being a small family buisness, we do not support online orders and deliveries. Sorry and Thank you!
     </p>
 </div>
 </section>
